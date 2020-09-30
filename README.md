@@ -6,4 +6,5 @@ You can help me improve this tool by giving me suggestion on better approach and
 
 The files are not properly documented so if you have any doubt just DM me on instagram: @micc_k21
 
+This tool works fine on lan connection but working on remote connection may lead to some mixing up of data.
 
